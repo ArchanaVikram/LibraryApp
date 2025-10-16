@@ -1,0 +1,12 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore the JSON data file (created at runtime)
+library.json
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore macOS and Windows system files
+.DS_Store
+Thumbs.db
